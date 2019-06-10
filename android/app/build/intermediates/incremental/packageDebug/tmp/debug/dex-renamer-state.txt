@@ -1,0 +1,4 @@
+#Sun Jun 09 02:33:41 CST 2019
+base.0=D\:\\Upwork\\appreactnative\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
