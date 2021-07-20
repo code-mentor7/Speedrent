@@ -13,7 +13,7 @@
     "lodash": "^4.17.11",
     "native-base": "2.12.1",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-calendars": "^1.185.0",
     "react-native-code-input": "^1.0.6",
     "react-native-elements": "1.1.0",
